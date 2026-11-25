@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+outputs/
+aw-per*/
+*.h5
+r500/
+calibration/
+filters/
+pc_calibration_variCepheidOnly_include2MASS_H/
+*.csv
+*.fits
+*.tar
+*.zip
+.DS_Store
